@@ -20,7 +20,7 @@ body {
     margin-bottom: 2rem;
     margin-top: 1rem;
     background-image: linear-gradient(to bottom right, #fefefe, #425eff);
-    background-size: contain;
+    background-position: 50% 100%;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
   }
